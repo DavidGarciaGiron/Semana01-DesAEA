@@ -1,0 +1,10 @@
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\bin\Debug\pjConexion2.exe.config
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\bin\Debug\pjConexion2.exe
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\bin\Debug\pjConexion2.pdb
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.csprojAssemblyReference.cache
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.frmClientes.resources
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.Properties.Resources.resources
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.csproj.GenerateResource.cache
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.csproj.CoreCompileInputs.cache
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.exe
+D:\Clases\6to\DesAEA\S1\pjConexion2\pjConexion2\obj\Debug\pjConexion2.pdb

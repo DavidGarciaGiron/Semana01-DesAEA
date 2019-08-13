@@ -1,0 +1,10 @@
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe.config
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\bin\Debug\PjConexion3.pdb
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csprojAssemblyReference.cache
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.frmClientes.resources
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Properties.Resources.resources
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.GenerateResource.cache
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.CoreCompileInputs.cache
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.exe
+D:\Clases\6to\DesAEA\S1\PjConexion3\PjConexion3\obj\Debug\PjConexion3.pdb

@@ -1,0 +1,10 @@
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\bin\Debug\Semana01.exe.config
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\bin\Debug\Semana01.exe
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\bin\Debug\Semana01.pdb
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.csprojAssemblyReference.cache
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.Form1.resources
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.Properties.Resources.resources
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.csproj.GenerateResource.cache
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.csproj.CoreCompileInputs.cache
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.exe
+D:\Clases\6to\DesAEA\S1\Semana01\Semana01\obj\Debug\Semana01.pdb

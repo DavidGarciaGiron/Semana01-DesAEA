@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PjConexion3", "PjConexion3\PjConexion3.csproj", "{DFB2F9AA-06CF-466F-AD17-14B82071BA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB2F9AA-06CF-466F-AD17-14B82071BA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB2F9AA-06CF-466F-AD17-14B82071BA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB2F9AA-06CF-466F-AD17-14B82071BA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB2F9AA-06CF-466F-AD17-14B82071BA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF7AC7D-8EB9-449A-8239-4928D8815174}
+	EndGlobalSection
+EndGlobal
